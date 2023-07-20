@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RutujChheda
-- 👀 I’m interested in ...Cybersecurity, Data Analytics, Blockchain and Project Management
-- 🌱 I’m currently learning ...C++, Cloud Computing using AWS and Azure, Python.etc.
-- 💞️ I’m looking to collaborate on ...Analyzing large Datasets, Using Cybersecurity Analytic tools.
+- 👀 I’m interested in ...Backend development, Cybersecurity, Data Analytics, Blockchain and Project Management
+- 🌱 I’m currently learning ... Java, C++, Python, Cloud Computing using AWS and Azure, cybersecurity tools.etc.
+- 💞️ I’m looking to collaborate on ...General backend development, Analyzing large Datasets, Using Cybersecurity Analytic tools.
 - 📫 How to reach me ...https://www.linkedin.com/in/rutuj-c-63955615a/
 
 <!---
