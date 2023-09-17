@@ -3,7 +3,7 @@
   Currently, I am a Grad. Student at Rutgers University.
 - 👀 I’m interested in ...Backend development, Cybersecurity, Data Analytics, Blockchain
 - 🌱 I’m currently learning ... Java, Python, Cloud Computing using AWS and Azure, cybersecurity tools.etc.
-- 💞️ I’m looking to collaborate on ...General backend development, Analyzing large Datasets, Using Cybersecurity Analytics tools.
+- 💞️ I’m looking to collaborate on ...Java Backend Development Project
 - 📫 How to reach me ...https://www.linkedin.com/in/rutuj-c-63955615a/
 
 <!---
