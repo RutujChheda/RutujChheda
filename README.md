@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RutujChheda. I used to help build stuff in the real world, and now I help build stuff in the digital world.
   I did my undergrad studies in Civil Engineering but decided to transition entirely to the tech industry after dabbling in web development for some time.
   Currently, I am a Grad. Student at Rutgers University.
-- 👀 I’m interested in ...Backend development, Cybersecurity, Data Science, Blockchain
+- 👀 I’m interested in ...Backend development, Cybersecurity, Data Science, Blockchains
 - 🌱 I’m currently learning ... Java, Python, Cloud Computing using AWS and Azure, cybersecurity.etc.
 - 💞️ I’m looking to collaborate on ...Java Backend Development Projects
 - 📫 How to reach me ...https://www.linkedin.com/in/rutuj-c-63955615a/
