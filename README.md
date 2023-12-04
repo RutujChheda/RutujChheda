@@ -2,8 +2,8 @@
   I did my undergrad studies in Civil Engineering but decided to transition entirely to the tech industry after dabbling in web development for some time.
   Currently, I am a Grad. Student at Rutgers University.
 - I am a co-founder of simplyglobal.com (https://simplyglobal.com/home/) 
-- 👀 I’m interested in ...Backend development, Cybersecurity, Data Science, Blockchains
-- 🌱 I’m currently learning ... Java, Python, Cloud Computing using AWS and Azure, cybersecurity.etc.
+- 👀 I’m interested in ...Backend development, Cybersecurity, Data Science, Blockchains and anything remotely related to the tech industry
+- 🌱 I’m currently learning ... Java, Python, Cloud Computing using AWS and Azure, Cybersecurity, etc.
 - 💞️ I’m looking to collaborate on ...Java Backend Development Projects
 - 📫 How to reach me ...https://www.linkedin.com/in/rutuj-c-63955615a/
 - My Certifications: https://www.credly.com/users/rutuj-chheda/badges
