@@ -37,8 +37,6 @@ etc.
 
 <div align="center">
 
-### ✨ [View all my Certifications on Credly](https://www.credly.com/users/rutuj-chheda/badges)
-
 
 <p style="display: flex; justify-content: space-around; flex-wrap: wrap; align:center;">
     <img src="https://images.credly.com/size/220x220/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="100" style="transition: transform .2s; margin: 5px;">
@@ -51,8 +49,10 @@ etc.
     <img src="https://images.credly.com/size/220x220/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" alt="IBM Cybersecurity Analyst Professional Certificate" width="100" style="transition: transform .2s; margin: 5px;">
 </p>
 
+## ✨ [View all my Certifications on Credly](https://www.credly.com/users/rutuj-chheda/badges)
 
-
+<br>
+<br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RutujChheda&show_icons=true&hide_border=true)
 
